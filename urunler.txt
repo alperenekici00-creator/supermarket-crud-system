@@ -1,0 +1,35 @@
+Essence Mascara Lash Princess;beauty;9.99;2023
+Eyeshadow Palette with Mirror;beauty;19.99;2023
+Powder Canister;beauty;14.99;2023
+Red Lipstick;beauty;12.99;2023
+Red Nail Polish;beauty;8.99;2023
+Calvin Klein CK One;fragrances;49.99;2023
+Chanel Coco Noir Eau De;fragrances;129.99;2023
+Dior J'adore;fragrances;89.99;2023
+Dolce Shine Eau de;fragrances;69.99;2023
+Gucci Bloom Eau de;fragrances;79.99;2023
+Annibale Colombo Bed;furniture;1899.99;2023
+Annibale Colombo Sofa;furniture;2499.99;2023
+Bedside Table African Cherry;furniture;299.99;2023
+Knoll Saarinen Executive Conference Chair;furniture;499.99;2023
+Wooden Bathroom Sink With Mirror;furniture;799.99;2023
+Apple;groceries;1.99;2023
+Beef Steak;groceries;12.99;2023
+Cat Food;groceries;8.99;2023
+Chicken Meat;groceries;9.99;2023
+Cooking Oil;groceries;4.99;2023
+Cucumber;groceries;1.49;2023
+Dog Food;groceries;10.99;2023
+Eggs;groceries;2.99;2023
+Fish Steak;groceries;14.99;2023
+Green Bell Pepper;groceries;1.29;2023
+Green Chili Pepper;groceries;0.99;2023
+Honey Jar;groceries;6.99;2023
+Ice Cream;groceries;5.49;2023
+Juice;groceries;3.99;2023
+Kiwi;groceries;2.49;2023
+Lemon;groceries;0.79;2023
+Milk;groceries;3.49;2023
+Mulberry;groceries;4.99;2023
+Nescafe Coffee;groceries;7.99;2023
+Potatoes;groceries;2.29;2023
